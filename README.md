@@ -32,7 +32,7 @@ Em parceria com a Digital Innovation One, a TQI está promovendo o Bootcamp TQI 
 - **CURSO:** JavaScript Assíncrono
 - **CURSO:** Orientação a objetos
 - **CURSO:** Manipulando a D.O.M com JavaScript
-- **DESAFIO DE CÓDIGO:** Desafios TQI/JavaScript
+- **DESAFIO DE CÓDIGO:** Desafios TQI - JavaScript
 - **DESAFIO DE PROJETO:** Desenvolvendo um jogo da memória
 
 ### MÓDULO 4 - REACTJS
@@ -54,10 +54,10 @@ Em parceria com a Digital Innovation One, a TQI está promovendo o Bootcamp TQI 
 - **CURSO:** Lógica condicional e controle de fluxos em Java
 - **CURSO:** Estruturas de repetição e arrays em Java
 - **CURSO:** Trabalhando com Collections Java
-- **CURSO:** Estrutura de dados em Java/Principais implementações
+- **CURSO:** Estrutura de dados em Java - Principais implementações
 - **CURSO:** Debugging Java
 - **CURSO:** Tratamento de exceções em Java
-- **DESAFIO DE CÓDIGO:** Desafios TQI/Java
+- **DESAFIO DE CÓDIGO:** Desafios TQI - Java
 - **CURSO:** Programação orientada a objetos
 - **CURSO:** Trabalhando com banco de dados utilizando JDBC e JPA
 - **CURSO:** JPA com Hibernate
