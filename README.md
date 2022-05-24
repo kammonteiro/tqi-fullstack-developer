@@ -2,15 +2,13 @@
 
 ![diotqi2022](https://user-images.githubusercontent.com/92060407/169946521-eb71ec97-489c-4895-90c5-47f4cf8669f2.png)
 
-
-
 Em parceria com a Digital Innovation One, a TQI está promovendo o Bootcamp TQI Fullstack Developer, um programa gratuito para formação em desenvolvimento fullstack e recrutamento de desenvolvedores júniores, através de cursos, desafios práticos e mentorias em tecnologias essenciais para front e back-end, além de banco de dados e introdução à Quality Assurance (QA) para testes e qualidade.
 
 *Para mais informações, acesse os módulos conforme indicado abaixo ou o site da* [dio._](https://web.dio.me/track/tqi-fullstack-developer)
 
 ## EMENTA
 
-###  MÓDULO 1 - CONTEÚDO DE ABERTURA
+###  MÓDULO 1 - CONTEÚDO DE ABERTURA ✅
 - **CURSO:** Boas-vindas ao TQI FullStack Developer
 - **CURSO:** Seja protagonista neste bootcamp
 - **CURSO:** Introdução à programação e pensamento lógico computacional

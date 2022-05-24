@@ -22,6 +22,10 @@ A solução mais recomendada atualmente, é criar um arquivo *.gitattributes* na
 
 O resultado vai trazer sempre: **i/lf** _(git)_ | **w/crlf** _(working tree)_ | **attr/text=auto** _(atributo)_ | **nome do arquivo**.
 
+Caso as alterações não tenham efeito imediato, é possível forçar a atualização com o seguinte comando:
+
+`git add --renormalize .`
+
 Incrível, não é?! Se você quer aprender mais sobre o tema, é só acessar esse artigo [aqui](https://www.aleksandrhovhannisyan.com/blog/crlf-vs-lf-normalizing-line-endings-in-git/#a-simple-gitattributes-config).
 
 Publicado em: [DIO](https://web.dio.me/articles/padronizacao-das-terminacoes-de-linha-no-git) | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6934397560233041920/)
